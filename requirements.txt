@@ -1,0 +1,6 @@
+langgraph
+langchain-openai
+psycopg[binary]
+sqlglot
+python-dotenv
+streamlit
